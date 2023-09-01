@@ -1,0 +1,44 @@
+{# templates/base.html #}
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ruzickajakub.eu - {{ title }}</title>
+	<link rel="stylesheet" href="{{ SITE.path_to_root }}main.css">
+	<link rel="stylesheet" href="{{ SITE.path_to_root }}pc.css">
+	{% block headers %}
+	{% endblock headers %}
+</head>
+<body>
+	<header>
+		<a href="{{ SITE.path_to_root }}index.html" class="logo">JR</a>
+			<!-- Hamburger icon -->
+        	<input class="side-menu" type="checkbox" id="side-menu"/>
+        	<label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+        	<!-- Menu -->
+        	<nav class="nav">
+            		<ul class="menu">
+						<li><a href="{{ SITE.path_to_root }}index.html">Sweden</a></li>
+						<li><a href="{{ SITE.path_to_root }}hiking.html">Hiking</a> </li>
+						<li><a href="{{ SITE.path_to_root }}about.html">About</a></li>
+            	</ul>
+        	</nav>
+	</header>
+	{% if introimage %}
+	<figure class="introimage-container">
+		<img id="introimage" src="{{ SITE.path_to_root}}{{ introimage }}-compressed.jpg"/>
+	</figure>
+	{% endif %}
+
+	<main>
+			{% block content %}{% endblock content %}
+	</main>
+
+	<footer>
+		<p>Maintained by Jakub Růžička.<br>
+		<a href="https://github.com/RuzickaJakub/ruzickajakub.eu">source code</a> | <a href="{{ SITE.path_to_root }}privacy-policy.html">privacy policy</a>
+		</p>
+	</footer>
+</body>
+</html>

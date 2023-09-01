@@ -1,0 +1,20 @@
+{# templates/blog-post.html #}
+
+{% extends "base.html" %}
+
+{% block content %}
+	<section id="text">{{ content|markdownify }}</section>
+
+	<section id="photos">
+		{% for photo in photos['items'] %}
+		{% for name, caption in photo.items() %}
+		<a href="{{ SITE.path_to_root }}{{ photos['directory'] }}{{ name }}">
+		<figure>
+			<img src="{{ SITE.path_to_root }}{{ photos['directory'] }}{{ name }}-compressed.jpg"/>
+			<figcaption>{{ caption }}</figcaption>
+		</figure>
+		</a>
+		{% endfor %}
+		{% endfor %}
+	</section>
+{% endblock content %}

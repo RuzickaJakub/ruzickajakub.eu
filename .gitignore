@@ -1,0 +1,7 @@
+static/media
+*.jpg
+out/*
+
+## Python
+env
+__pycache__
