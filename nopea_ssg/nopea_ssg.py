@@ -110,9 +110,10 @@ def copy_static(static_dir, destination_dir):
         pathlib.Path(dir_out).mkdir(parents=True, exist_ok=True)
         shutil.copy(file_in, file_out)
         _, file_extension = os.path.splitext(file_in)
-        if file_extension in [".jpg"]:
-            file_out_compressed = file_out + "-compressed" + file_extension
-            compress_photo(file_in, file_out_compressed, quality=30)
+        if file_extension in [".jpg", ".jpeg"]:
+            file_out_compressed = file_out + "-compressed.jpg"
+            if not os.path.exists(file_out_compressed):
+                compress_photo(file_in, file_out_compressed, quality=30)
 
 
 def compress_photo(file_in, file_out, quality):
