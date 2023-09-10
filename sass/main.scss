@@ -19,6 +19,9 @@ body {
 	figcaption {
 		color: $light-text;
 	}
+	ul {
+		list-style: none;
+	}
 }
 .nav, header, footer {
 	color: $light-background;
@@ -99,7 +102,7 @@ main {
 	p {
 		padding-bottom: 15px;
 	}
-	h1, h2 {
+	h1, h2, h3 {
 		padding-bottom: 15px;
 	}
 }
