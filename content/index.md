@@ -4,7 +4,7 @@ lang: en
 layout: default
 ---
 
-I'm Jakub Růžička. I maintain this website, study Cybersecurity at the KTH Royal Institute of Technology in Stockholm and I am member of the RoyalRoppers - Swedish student CTF team. 
+I'm Jakub Růžička. I maintain this website, study Cybersecurity at the KTH Royal Institute of Technology in Stockholm and I am member of the [RoyalRoppers](https://royalroppers.team/) - Swedish student CTF team. 
 
 Since I want make this blog available also for people not speaking English, there would be also Czech version for each article. See below for English version.
 
