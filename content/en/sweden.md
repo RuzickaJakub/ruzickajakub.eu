@@ -12,6 +12,7 @@ I'm Jakub Růžička. I maintain this website, study Cybersecurity at the KTH Ro
 - [Week 4: Carl XVI Gustav celebrates 50 years on the throne & Strict Firewall](sweden/04-en.html)
 - [Week 5: Finally getting to know Stockholm & Priviledge escalation (Ethical Hacking)](sweden/05-en.html)
 - [Week 6: Capture the flag & Vaxholm](sweden/06-en.html)
+- [Week 7: Ethical hacking completed](sweden/07-en.html)
 
 
 

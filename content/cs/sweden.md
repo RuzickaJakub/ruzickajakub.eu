@@ -13,3 +13,5 @@ Jsem Jakub Růžička. Provozuji tyto webové stránky, studuji kybernetickou be
 - [Týden 4: Carl XVI Gustav slaví 50 let na trůnu & Striktní firewall](sweden/04-cs.html)
 - [Týden 5: Konečně poznávám Stockholm & Eskalace práv (Etické hackování)](sweden/05-cs.html)
 - [Týden 6: Velké chytání vlajek & Vaxholm](sweden/06-cs.html)
+- [Týden 7: Etické hackování dokončeno & Vår tid är nu](sweden/07-cs.html)
+
