@@ -8,5 +8,5 @@ Email: jakub.ruzicka@matfyz.cz
 
 Matrix: @baku:matrix.im
 
-Resume: [English](ruzicka-cv-english.pdf) [German](ruzicka-cv-deutsch.pdf)
+Resume: [English](../ruzicka-cv-english.pdf) [German](../ruzicka-cv-deutsch.pdf)
 

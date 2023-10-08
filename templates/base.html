@@ -12,16 +12,24 @@
 </head>
 <body>
 	<header>
-		<a href="{{ SITE.path_to_root }}index.html" class="logo">JR</a>
+		<a href="{{ SITE.path_to_root }}{{ lang }}/about.html" class="logo">JR</a>
 			<!-- Hamburger icon -->
         	<input class="side-menu" type="checkbox" id="side-menu"/>
         	<label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
         	<!-- Menu -->
         	<nav class="nav">
             		<ul class="menu">
-						<li><a href="{{ SITE.path_to_root }}index.html">Sweden</a></li>
-						<li><a href="{{ SITE.path_to_root }}hiking.html">Hiking</a> </li>
-						<li><a href="{{ SITE.path_to_root }}about.html">About</a></li>
+				{% if lang == "en" %}
+					<li><a href="{{ SITE.path_to_root }}{{ lang }}/sweden.html">Sweden</a></li>
+					<li><a href="{{ SITE.path_to_root }}{{ lang }}/security.html">Security</a> </li>
+					<li><a href="{{ SITE.path_to_root }}{{ lang }}/about.html">About</a></li>
+					<li><a href="{{ SITE.path_to_root }}cs/about.html">CS</a></li>
+				{% elif lang == "cs" %}
+					<li><a href="{{ SITE.path_to_root }}{{ lang }}/sweden.html">Švédsko</a></li>
+					<li><a href="{{ SITE.path_to_root }}{{ lang }}/hiking.html">Výlety</a> </li>
+					<li><a href="{{ SITE.path_to_root }}{{ lang }}/about.html">O mně</a></li>
+					<li><a href="{{ SITE.path_to_root }}en/about.html">EN</a></li>
+				{% endif %}
             	</ul>
         	</nav>
 	</header>
