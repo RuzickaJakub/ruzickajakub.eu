@@ -49,3 +49,7 @@ Vše se tu platí kartou. Já si na začátku vybral pár Švédských korun a z
 [Vasa museet](https://www.vasamuseet.se/en), 
 [Nordiska museet](https://www.nordiskamuseet.se/en), 
 [Nobel prize museet](https://nobelprizemuseum.se/en/).
+
+(13) Lappis scream - Každé úterý ve 22:00 všichni kdo potřebují otevřou okno a zakřičí z plných plic. Jedná se o zvláště oblíbenou aktivitu, především v době zkouškového. [Ukázkové video](https://www.kth.se/blogs/studentblog/2020/01/lappis-screams-and-treasures/)
+
+(14) Kayakomat - Stockholm je město ostrovů a proto je velmi snadné si tu půjčit kajak či paddleboard a vyrazit. [Více info](https://www.kayakomat.com/)
