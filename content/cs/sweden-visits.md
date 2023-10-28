@@ -2,6 +2,7 @@
 title: Návštěvy
 lang: cs
 layout: default
+date: 2022-10-10
 ---
 
 Ahoj! Jak asi tušíš, aktuálně se nacházím ve Stockholmu. Pokud by jsi mě chtěl/a navštívit, tak mám pro tebe pár praktických informací a pak spoustu lákadel. Pokud ti bude informace chybět, tak mi napiš.
