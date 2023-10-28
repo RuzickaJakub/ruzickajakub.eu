@@ -28,7 +28,12 @@ def preprocess_overview(meta):
     for filename in os.listdir(directory):
         path = os.path.join(directory, filename)
         (file_meta, _) = mdyml.load_markdown_with_yaml_header_from_file(path)
-        html_path = os.path.join(meta["directory"], filename.replace(".md", ".html"))
+        html_path = os.path.join(
+            meta["SITE"].path_to_root,
+            meta["lang"],
+            meta["directory"],
+            filename.replace(".md", ".html"),
+        )
         files.append((html_path, file_meta["title"], file_meta["date"]))
     files.sort(key=lambda a: a[2])
     meta["files"] = files
