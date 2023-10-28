@@ -13,6 +13,8 @@ I'm Jakub Růžička. I maintain this website, study Cybersecurity at the KTH Ro
 - [Week 5: Finally getting to know Stockholm & Priviledge escalation (Ethical Hacking)](sweden/05-en.html)
 - [Week 6: Capture the flag & Vaxholm](sweden/06-en.html)
 - [Week 7: Ethical hacking completed](sweden/07-en.html)
-- [Week 8: Artificial Intelligence](sweden/08-en.html)
+- [Week 8: Artificial Intelligence & Cookies](sweden/08-en.html)
+- [Week 9: Snow & Sea & pwn.college](sweden/09-en.html)
+
 
 

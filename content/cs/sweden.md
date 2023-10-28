@@ -14,6 +14,5 @@ Jsem Jakub Růžička. Provozuji tyto webové stránky, studuji kybernetickou be
 - [Týden 5: Konečně poznávám Stockholm & Eskalace práv (Etické hackování)](sweden/05-cs.html)
 - [Týden 6: Velké chytání vlajek & Vaxholm](sweden/06-cs.html)
 - [Týden 7: Etické hackování dokončeno & Vår tid är nu](sweden/07-cs.html)
-- [Týden 8: Umělá inteligence](sweden/08-cs.html)
-
-
+- [Týden 8: Umělá inteligence & Sušenky](sweden/08-cs.html)
+- [Týden 9: Sníh & Moře & pwn.college](sweden/09-cs.html)

@@ -3,8 +3,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-	<section id="text">{{ content|markdownify }}</section>
 
+	<section id="text">
+		<h2>{{ title }}</h2>
+		{{ date }}
+		{{ content|markdownify }}
+	</section>
+
+	{% if photos %}
 	<section id="photos">
 		{% if photos['items'] %}
 			{% for photo in photos['items'] %}
@@ -19,4 +25,5 @@
 			{% endfor %}
 		{% endif %}
 	</section>
+	{% endif %}
 {% endblock content %}
