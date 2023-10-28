@@ -11,6 +11,13 @@
 			min-width: 768px;
 			width: 40vw;
 		}
+		.listing{
+			li {
+				.time {
+					visibility: visible;
+				}
+			}
+		}
 	}
 
 	header {

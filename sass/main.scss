@@ -22,6 +22,20 @@ body {
 	ul {
 		list-style: none;
 	}
+
+	.listing{
+		li {
+			padding: 5px;
+			.time {
+				visibility: hidden;
+				float: right;
+			}
+		}
+		li:nth-child(odd){
+			background-color: $dark-header-footer;
+		}
+	}
+
 }
 .nav, header, footer {
 	color: $light-background;
