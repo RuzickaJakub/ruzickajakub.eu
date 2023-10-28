@@ -45,7 +45,7 @@ For the template reference check [1].
 The Black code formatter [3] and Pylint [4] are used so that the code has some quality.
 
 ## Links
-[1] [https://jinja.palletsprojects.com/en/3.1.x/](https://jinja.palletsprojects.com/en/3.1.x/)
-[2] [https://python-markdown.github.io/reference/](https://python-markdown.github.io/reference/)
-[3] [https://pypi.org/project/black/](https://pypi.org/project/black/)
-[4] [https://pypi.org/project/pylint/](https://pypi.org/project/pylint/)
+- [1] [https://jinja.palletsprojects.com/en/3.1.x/](https://jinja.palletsprojects.com/en/3.1.x/)
+- [2] [https://python-markdown.github.io/reference/](https://python-markdown.github.io/reference/)
+- [3] [https://pypi.org/project/black/](https://pypi.org/project/black/)
+- [4] [https://pypi.org/project/pylint/](https://pypi.org/project/pylint/)
