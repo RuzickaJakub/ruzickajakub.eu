@@ -14,6 +14,7 @@ from markdown import markdown
 from PIL import Image
 import files
 import mdyml
+import preprocess_overview
 import sass
 
 
@@ -73,7 +74,11 @@ def generate_one_file(env, base_dir, input_filename, destination_filename):
 
     meta["SITE"] = Site(base_dir, input_filename)
     meta["content"] = content
+    meta["input_filename"] = input_filename
     template = env.get_template(meta["layout"] + ".html")
+    # Preprocess the meta based on the layout
+    if meta["layout"] == "overview":
+        meta = preprocess_overview.preprocess_overview(meta)
     rendered = template.render(meta)
 
     with open(destination_filename, "w", encoding="UTF-8") as out:
