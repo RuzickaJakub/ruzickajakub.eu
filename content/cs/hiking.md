@@ -1,7 +1,8 @@
 ---
 title: Výlety 
 lang: cs
-layout: default
+layout: overview
+directory: trips
 ---
 
-Stránka s výlety. Už brzy se můžete těšit na "Severní Ušba - nevylezli na vrchol, ale přežili".
+Stránka s pěšími, alpinistickými i skialpinistickými túrami. A také s výlety do různých metropolí.

@@ -19,6 +19,9 @@ Zde je možností několik:
 ## Ubytování
 Aktuálně bydlím ve studentské čtvrti Lappis ve studiu (vše je v jedné místnosti, až na koupelnu). Kvalita je (samosebou) téměř na úrovni hotelu Hilton, tedy mám tu jednu matraci, karimatku, pět palet, dvě cívky a sušák na prádlo. Pokud by se ti to zdálo jako málo, tak věz, že v zemi, kde vznikla IKEA tyto věci nahradí mimo jiné: stůl, dvě židle, křeslo či standing desk. Tento odstavec je jen na slazení očekávání :)
 
+## Počasí
+Minimálně dvakrát do týdne pořádně zaprší. Menší přeháňky jsou tu na denním pořádku.
+
 ## Peníze
 Vše se tu platí kartou. Já si na začátku vybral pár Švédských korun a zatím jsem je neměl šanci použít.
 
@@ -54,3 +57,5 @@ Vše se tu platí kartou. Já si na začátku vybral pár Švédských korun a z
 (13) Lappis scream - Každé úterý ve 22:00 všichni kdo potřebují otevřou okno a zakřičí z plných plic. Jedná se o zvláště oblíbenou aktivitu, především v době zkouškového. [Ukázkové video](https://www.kth.se/blogs/studentblog/2020/01/lappis-screams-and-treasures/)
 
 (14) Kayakomat - Stockholm je město ostrovů a proto je velmi snadné si tu půjčit kajak či paddleboard a vyrazit. [Více info](https://www.kayakomat.com/)
+
+(15) Gunnar Asplund - Architektonická procházka po stavbách jednoho z nejslavnějších švědských architektů. Určitě navštívíme Stockholmskou městskou knihovnu, Skogskyrkogården (UNESCO)
