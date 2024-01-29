@@ -10,3 +10,5 @@ Matrix: @baku:matrix.im
 
 Resume: [English](../ruzicka-cv-english.pdf) [German](../ruzicka-cv-deutsch.pdf)
 
+Work Reference [in German only]: [GreenFoxAcademy](../arbeitszeugnis.pdf)
+
