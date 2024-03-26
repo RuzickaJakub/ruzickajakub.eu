@@ -1,6 +1,7 @@
 static/media
 *.jpg
 out/*
+unfinished-content/*
 
 ## Python
 env
