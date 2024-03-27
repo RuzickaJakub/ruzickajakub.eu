@@ -8,7 +8,6 @@
 
 {% block content %}
 <section class="splash">
-	{% include "stars.html" %}
 	{% set profile_picture = resize_image(path=section.extra.profile_picture, width=150, height=150, op="fill", format="webp") %}
   <img class="profile-picture" src="{{ profile_picture.url }}" alt="Profile image of {{ section.extra.name }}" />
 
@@ -21,5 +20,6 @@
 			</a>
 			{% endfor %}
 	</div>
+	{% include "stars.html" %}
 </section>
 {% endblock content %}

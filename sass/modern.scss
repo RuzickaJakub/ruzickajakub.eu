@@ -1,6 +1,11 @@
+header, footer {
+  background-color: #202020;
+}
+
 .splash {
     width: 100vw;
     height: 100vh;
+    color: #fff;
     background-color: #202020;
 
 		margin: 0 auto;
@@ -20,36 +25,6 @@
       height: 150px;
       border-radius: 150px;
     }
-
-    /*
-    .socials {
-      margin-top: 32px;
-      display: flex;
-      gap: 16px;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: center;
-
-      height: 100px;
-
-      background: red;
-      a div {
-        display: none;
-        padding: 20px;
-
-      }
-      a:hover div {
-        display: block;
-        float: bottom;
-      }
-
-      svg {
-        width: 30px;
-        height: 30px;
-        fill: #fff;
-      }
-    }
-    */
 
     .star {
         position: absolute;
