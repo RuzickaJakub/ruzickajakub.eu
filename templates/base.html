@@ -5,12 +5,10 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	{#
-	<title>ruzickajakub.eu - {{ section.title }}</title>
-	#}
 	<link rel="stylesheet" href="{{ get_url(path='/main.css', trailing_slash=false, cachebust=true) }}" />
 	<link rel="stylesheet" href="{{ get_url(path='/pc.css', trailing_slash=false, cachebust=true) }}" />
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
+	<link href='https://fonts.googleapis.com/css?family=Helvetica' rel='stylesheet'>
 	{% block headers %}
 	{% endblock headers %}
 </head>
@@ -35,8 +33,10 @@
 	</main>
 
 	<footer>
-		<p>Maintained by Jakub Růžička.<br>
-		<a>privacy policy</a>
+		<p>Maintained by Jakub Růžička <br>
+		(2021-{{ now() | date(format="%Y") }})<br>
+		<a href="https://github.com/RuzickaJakub/ruzickajakub.eu">source code</a> | 
+		<a href={{ get_url(path='@/privacy-policy.md', trailing_slash=false) }} >privacy policy</a>
 		</p>
 	</footer>
 </body>

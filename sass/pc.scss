@@ -9,8 +9,10 @@
 		main {
 			grid-column: 2;
 			min-width: 768px;
-			width: 40vw;
 		}
+    .long-text {
+			width: 40vw;
+    }
 		.listing{
 			li {
 				.time {

@@ -2,64 +2,25 @@
 
 {% extends "base.html" %}
 
+{% block headers %}
+<link rel="stylesheet" href="{{ get_url(path='/modern.css', trailing_slash=false, cachebust=true) }}" />
+{% endblock header %}
+
 {% block content %}
-<section class="star-container">
-		<div class="container">
-        <a href="./me.jpg"><img class="profile-picture" src="../me.jpg" alt="Profile picture"/></a>
-        <h1>Jakub Růžička</h1>
-		<p style="color: white">Per aspera ad astra</p>
-			<div class="socials">
-				{% for social in section.extra.socials %}
-					<a href="{{ social.link | default(value='') }}" target="_blank" rel="noopener">
-	        {{ load_data(path=social.icon) | safe }}
-					<p>{{ social.link }}<p>
-					</a>
-				{% endfor %}
-			</div>
-		</div>
-<div class='star' style='top: 0%; left: 0%; animation-delay: 1.236854190808374s'></div>
-<div class='star' style='top: 56%; left: 17%; animation-delay: 0.03603953760004508s'></div>
-<div class='star' style='top: 27%; left: 32%; animation-delay: 1.9698975691182745s'></div>
-<div class='star' style='top: 16%; left: 92%; animation-delay: 1.037180681739899s'></div>
-<div class='star' style='top: 69%; left: 83%; animation-delay: 1.5063610341363756s'></div>
-</section>
+<section class="splash">
+	{% include "stars.html" %}
+	{% set profile_picture = resize_image(path=section.extra.profile_picture, width=150, height=150, op="fill", format="webp") %}
+  <img class="profile-picture" src="{{ profile_picture.url }}" alt="Profile image of {{ section.extra.name }}" />
 
-<section class="timeline">
-        <div class="timeline-element">
-          <span class="timeline-element-icon" style="background-color: #009de0; color: #fff;">
-			  <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"></svg>
-          </span>
-          <div class="timeline-element-content">
-            <h4>KTH Cybersecurity</h4>
-
-			<h5>Stockholm, Sweden</h5>
-
-            <div>
-              <p>Since I was member of the Pedagogical Council in my last year at Técnico,
-I volunteered to re-build the delegate (student representative)
-using more modern technologies. It was built using Rust and React,
-which should result in a longer life span and need fewer maintenance.</p>
-            </div>
-            <span class="timeline-element-date">October 2023</span>
-          </div>
-        </div>
-        <div class="timeline-element">
-          <span class="timeline-element-icon" style="background-color: #009de0; color: #fff;">
-			  <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"></svg>
-          </span>
-          <div class="timeline-element-content">
-            <h4>KTH Cybersecurity</h4>
-
-			<h5>Stockholm, Sweden</h5>
-
-            <div>
-              <p>Since I was member of the Pedagogical Council in my last year at Técnico,
-I volunteered to re-build the delegate (student representative)
-using more modern technologies. It was built using Rust and React,
-which should result in a longer life span and need fewer maintenance.</p>
-            </div>
-            <span class="timeline-element-date">October 2023</span>
-          </div>
-        </div>
+	<h1>{{ section.extra.name }}</h1>
+	<h2>{{ section.extra.title }}</h1>
+	<div class="socials">
+		{% for social in section.extra.socials %}
+			<a href="{{ social.link | default(value='') }}" target="_blank" rel="noopener">
+					{{ load_data(path=social.icon) | safe }}
+					<p>{{ social.label }}</p>
+			</a>
+		{% endfor %}
 	</div>
+</section>
 {% endblock content %}

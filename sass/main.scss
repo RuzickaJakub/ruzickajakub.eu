@@ -12,6 +12,12 @@ body {
 	background-color: $light-background;
 	a {
 		color: #4361ee;
+    svg {
+      height: 30px;
+      path {
+        fill: #FFF;
+      }
+    }
 	}
 	a:hover {
 		text-decoration: underline;
@@ -35,6 +41,9 @@ body {
 			background-color: $dark-header-footer;
 		}
 	}
+  .long-text {
+    padding: 20px;
+  }
 
 }
 .nav, header, footer {
@@ -98,7 +107,7 @@ header {
 
 /* Main content */
 main {
-	padding: 20px;
+	//padding: 20px;
 	img {
 		width: 100%;
 	}
