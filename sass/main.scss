@@ -5,7 +5,7 @@ $light-header-footer: #333;
 
 $dark-text: #fafafa;
 $dark-background: #363636;
-$dark-header-footer: #262626;
+$dark-header-footer: #202020;
 
 body {
 	color: $light-text;
@@ -73,7 +73,7 @@ a {
 body {
 	font-family: sans-serif;
 	display: grid;
-	grid-template-rows: auto auto 1fr auto;
+	grid-template-rows: auto 1fr auto;
 	grid-template-columns: 100%;
 	min-height: 100vh;
 }
@@ -82,6 +82,8 @@ body {
 header {
 	grid-row: 1;
 	position: sticky;
+  //position: fixed;
+  width: 100%;
 	top: 0;
 	ul {
 		list-style: none;	
@@ -91,24 +93,11 @@ header {
 		font-size: 30px;
 		margin-left: 20px;
 	}
-}
-
-/* Intro image */
-.introimage-container {
-	grid-row: 2;
-	width: 100%;
-	max-height: 200px;
-	overflow: hidden;
-	#introimage {
-		max-width: 100vw;
-		min-width: 450px;
-		margin: -15% 0%;
-	}
+    z-index: +1;
 }
 
 /* Main content */
 main {
-	grid-row: 3;
 	padding: 20px;
 	img {
 		width: 100%;
@@ -142,17 +131,25 @@ figcaption {
 /* Navigation */
 .nav { 
 	width: 100%;
-	height: 100%;
+	height: 100vh;
 	position: fixed;
 	overflow: hidden;
 }
+
 .menu a {
 	display: block;
 	padding: 26px 30px;
 }
+
 .nav {
+    position: sticky;
 	max-height: 0;
-	transition: max-height .5s ease-out;
+	//transition: max-height .5s ease-out;
+    transition: max-height;
+}
+
+header {
+  transition: background-color;
 }
 /* Menu Icon */
 .hamb {
@@ -191,10 +188,18 @@ figcaption {
 /* Toggle menu icon */
 .side-menu:checked ~ nav {
 	max-height: 100%;
+    //background-color: red;
 }
+
+header:has(.side-menu:checked) {
+  background-color: #202020;
+  z-index: +3;
+}
+
 .side-menu:checked ~ .hamb .hamb-line {
 	background: transparent;
 }
+
 .side-menu:checked ~ .hamb .hamb-line::before {
 	transform: rotate(-45deg);
 	top: 0;

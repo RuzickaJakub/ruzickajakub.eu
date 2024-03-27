@@ -1,43 +1,34 @@
 {# templates/base.html #}
+
 <!DOCTYPE html>
 <html lang="{{ lang }}">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>ruzickajakub.eu - {{ title }}</title>
-	<link rel="stylesheet" href="{{ SITE.path_to_root }}main.css">
-	<link rel="stylesheet" href="{{ SITE.path_to_root }}pc.css">
+	{#
+	<title>ruzickajakub.eu - {{ section.title }}</title>
+	#}
+	<link rel="stylesheet" href="{{ get_url(path='/main.css', trailing_slash=false, cachebust=true) }}" />
+	<link rel="stylesheet" href="{{ get_url(path='/pc.css', trailing_slash=false, cachebust=true) }}" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
 	{% block headers %}
 	{% endblock headers %}
 </head>
 <body>
 	<header>
-		<a href="{{ SITE.path_to_root }}{{ lang }}/about.html" class="logo">JR</a>
+		<a class="logo" href="">JR</a>
 			<!-- Hamburger icon -->
         	<input class="side-menu" type="checkbox" id="side-menu"/>
         	<label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
         	<!-- Menu -->
         	<nav class="nav">
             		<ul class="menu">
-				{% if lang == "en" %}
-					<li><a href="{{ SITE.path_to_root }}{{ lang }}/sweden.html">Sweden</a></li>
-					<li><a href="{{ SITE.path_to_root }}{{ lang }}/security.html">Security</a> </li>
-					<li><a href="{{ SITE.path_to_root }}{{ lang }}/about.html">About</a></li>
-					<li><a href="{{ SITE.path_to_root }}cs/about.html">CS</a></li>
-				{% elif lang == "cs" %}
-					<li><a href="{{ SITE.path_to_root }}{{ lang }}/sweden.html">Švédsko</a></li>
-					<li><a href="{{ SITE.path_to_root }}{{ lang }}/hiking.html">Výlety</a> </li>
-					<li><a href="{{ SITE.path_to_root }}{{ lang }}/about.html">O mně</a></li>
-					<li><a href="{{ SITE.path_to_root }}en/about.html">EN</a></li>
-				{% endif %}
+									{% for link in config.extra.links %}
+									<li><a href="{{ get_url(path=link.path) }}">{{ link.name }}</a></li>
+									{% endfor %}
             	</ul>
         	</nav>
 	</header>
-	{% if introimage %}
-	<figure class="introimage-container">
-		<img id="introimage" src="{{ SITE.path_to_root}}{{ introimage }}-compressed.jpg"/>
-	</figure>
-	{% endif %}
 
 	<main>
 			{% block content %}{% endblock content %}
@@ -45,7 +36,7 @@
 
 	<footer>
 		<p>Maintained by Jakub Růžička.<br>
-		<a href="https://github.com/RuzickaJakub/ruzickajakub.eu">source code</a> | <a href="{{ SITE.path_to_root }}privacy-policy.html">privacy policy</a>
+		<a>privacy policy</a>
 		</p>
 	</footer>
 </body>
