@@ -15,12 +15,11 @@
 	<h1>{{ section.extra.name }}</h1>
 	<h2>{{ section.extra.title }}</h1>
 	<div class="socials">
-		{% for social in section.extra.socials %}
-			<a href="{{ social.link | default(value='') }}" target="_blank" rel="noopener">
-					{{ load_data(path=social.icon) | safe }}
-					<p>{{ social.label }}</p>
+			{% for social in section.extra.socials %}
+			<a class="icon" href="{{ social.link | default(value='') }}" data-link="{{ social.label }}" target="_blank" rel="noopener">
+				<div>{{ load_data(path=social.icon) | safe }}</div>
 			</a>
-		{% endfor %}
+			{% endfor %}
 	</div>
 </section>
 {% endblock content %}

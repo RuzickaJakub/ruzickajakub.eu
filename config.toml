@@ -26,4 +26,4 @@ path = "/blog"
 
 [[extra.links]]
 name = "About"
-path = "/index.html"
+path = "/"
