@@ -1,5 +1,5 @@
 +++
-title = "🇨🇿 Týden 1: Stockholm"
+title = "Týden 1: Stockholm"
 lang  = "cs"
 date  = 2023-08-27
 +++

@@ -1,5 +1,5 @@
 ---
-title: '🇨🇿 Týden 10: Podzimní nálada'
+title: 'Týden 10: Podzimní nálada'
 lang: cs
 layout: post
 date: 2023-10-29
