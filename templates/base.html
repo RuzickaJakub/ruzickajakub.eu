@@ -14,16 +14,24 @@
 </head>
 <body>
 	<header>
-		<a class="logo" href="">JR</a>
+		<a class="logo" href="{{ get_url(path="@/_index.md", lang=lang) }}">JR</a>
 			<!-- Hamburger icon -->
         	<input class="side-menu" type="checkbox" id="side-menu"/>
         	<label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
         	<!-- Menu -->
         	<nav class="nav">
             		<ul class="menu">
-									{% for link in config.extra.links %}
-									<li><a href="{{ get_url(path=link.path) }}">{{ link.name }}</a></li>
-									{% endfor %}
+									{% if lang == 'cs' %}
+										{% for link in config.extra.links %}
+										<li><a href="{{ get_url(path=link.path_cs) }}">{{ link.name_cs }}</a></li>
+										{% endfor %}
+										<li><a href="{{ get_url(path="@/_index.md") }}">EN</a></li>
+									{% else %}
+										{% for link in config.extra.links %}
+										<li><a href="{{ get_url(path=link.path) }}">{{ link.name }}</a></li>
+										{% endfor %}
+										<li><a href="{{ get_url(path="@/_index.md", lang="cs") }}">CS</a></li>
+									{% endif %}
             	</ul>
         	</nav>
 	</header>

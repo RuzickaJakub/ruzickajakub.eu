@@ -23,9 +23,13 @@ highlight_code = false
 [[extra.links]]
 name = "BLOG"
 path = "/blog"
+name_cs = "BLOG"
+path_cs = "/cs/blog"
 
 [[extra.links]]
-name = "ABOUT"
+name = "HOME"
 path = "/"
+name_cs = "HOME"
+path_cs = "/cs"
 
 [languages.cs]

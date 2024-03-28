@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block headers %}
+{% set section = get_section(path=page.ancestors | last) %}
+{% endblock headers %}
+
 {% block content %}
 <section class="long-text">
 <h1 class="title">
@@ -13,5 +17,10 @@
 {% endif %}
 <p class="subtitle"><strong>{{ page.date }}</strong></p>
 {{ page.content | safe }}
+
+<a class="icon" href="{{ get_url(path=section.path ~ config.feed_filename) | safe }}" target="_blank">
+{{ load_data(path="static/assets/icons/rss.svg") | safe }}
+</a>
+</section>
 </section>
 {% endblock content %}

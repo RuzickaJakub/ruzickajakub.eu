@@ -1,4 +1,4 @@
-{# templates/overview.html #}
+{# templates/blog.html #}
 
 {% extends "base.html" %}
 
@@ -6,30 +6,39 @@
 
 <section class="long-text">
 
+<div class="section-heading">
 {{ section.content | safe }}
-
-You can add the whole blog or only a certain category to your RSS reader using <a href="{{ get_url(path=section.path ~
-	config.feed_filename) | safe }}" target="_blank">this link.</a>
+</div>
 
 <ul class="listing">
 	{% for post in section.pages %}
-		<li><a href="{{ post.permalink }}">{{ post.title }}</a><span class="time">{{ post.date }}</span></li>
-		<li>Summary: {{ post.summary }}</li>
-		<li>Reading time: {{ post.reading_time }}</li>
-		<li>Lang: {{ post.lang }}</li>
-		<li>
-				{% for tr in post.translations %}
-				<a href="{{ tr.permalink }}">
-						{% if tr.lang == 'cs'  %}
-							🇨🇿
-						{% else %}
-							🇬🇧
-						{% endif %}
-				</a>
-				{% endfor %}
-		</li>
+	<li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
+			{# The following code is replicated to preserve translation ordering #}
+			{% for tr in post.translations %}
+			<a href="{{ tr.permalink }}">
+					{% if tr.lang == 'en'  %}
+						🇬🇧
+					{% endif %}
+			</a>
+			{% endfor %}
+			{% for tr in post.translations %}
+			<a href="{{ tr.permalink }}">
+					{% if tr.lang == 'cs' %}
+						🇨🇿
+					{% endif %}
+			</a>
+			{% endfor %}
+			| {{ post.date}} 
+			| {{ post.reading_time }} min
+		{% if post.summary %}
+		<div>{{ post.summary | safe }}</div>
+		{% endif %}
 	{% endfor %}
 </ul>
+
+<a class="icon" href="{{ get_url(path=section.path ~ config.feed_filename) | safe }}" target="_blank">
+{{ load_data(path="static/assets/icons/rss.svg") | safe }}
+</a>
 </section>
 
 
