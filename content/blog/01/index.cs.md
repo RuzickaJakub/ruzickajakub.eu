@@ -2,9 +2,6 @@
 title = "🇨🇿 Týden 1: Stockholm"
 lang  = "cs"
 date  = 2023-08-27
-
-[taxonomies]
-tags = ["Sweden", "Stockholm"]
 +++
 
 Týden začal v Mestii v Gruzii. Na jeden den jsem navštívil Kutaisi. Odtud jsem letěl přímo do Stockholmu. Vlastně ne přímo, přebalil jsem si kufry na letišti ve Vratislavi, přespal na letišti ve Stockholmu a ráno vyzvednul klíče od ubytování.

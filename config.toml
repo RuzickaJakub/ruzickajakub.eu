@@ -21,9 +21,11 @@ highlight_code = false
 # Put all your custom variables here
 
 [[extra.links]]
-name = "Blog"
+name = "BLOG"
 path = "/blog"
 
 [[extra.links]]
-name = "About"
+name = "ABOUT"
 path = "/"
+
+[languages.cs]

@@ -1,15 +1,18 @@
 /* Theme */
 $light-text: #262626;
 $light-background: #fff;
-$light-header-footer: #505050;
+$light-header-footer: #bbb;
 
 $dark-text: #fafafa;
-$dark-background: #363636;
-$dark-header-footer: #202020;
+$dark-background: #262626;
+$dark-header-footer: #262626;
 
 body {
 	color: $light-text;
-	background-color: $light-background;
+	background-color: $light-header-footer;
+  main {
+    background-color: $light-background;
+  }
 	a {
 		color: #4361ee;
     svg {
@@ -37,7 +40,7 @@ body {
 			}
 		}
 		li:nth-child(odd){
-      background-color: #bbb//$light-header-footer;
+      background-color: $light-header-footer;
 		}
 	}
   .long-text {
@@ -56,7 +59,10 @@ body {
 @media (prefers-color-scheme: dark) {
 	body {
 		color: $dark-text;
-		background-color: $dark-background;
+    background-color: $dark-header-footer;
+    main {
+      background-color: $dark-background;
+    }
 		figcaption {
 			color: $dark-text;
 		}
@@ -85,7 +91,10 @@ a {
 
 /* Main structure */
 body {
-	font-family: sans-serif;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: .875rem;
+	//font-family: sans-serif;
 	display: grid;
 	grid-template-rows: auto 1fr auto;
 	grid-template-columns: 100%;

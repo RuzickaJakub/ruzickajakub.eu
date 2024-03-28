@@ -1,12 +1,16 @@
-header, footer {
-  background-color: #202020;
+$background: #000;
+
+body {
+  header, footer {
+    background-color: $background;
+  }
 }
 
 .splash {
     width: 100vw;
     height: 100vh;
     color: #fff;
-    background-color: #202020;
+    background-color: $background;
 
 		margin: 0 auto;
 		padding: 15vh 20px;

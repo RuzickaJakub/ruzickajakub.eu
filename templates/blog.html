@@ -8,13 +8,26 @@
 
 {{ section.content | safe }}
 
-<a href="{{ get_url(path=section.path ~ config.feed_filename) | safe }}" style="display: inline-block; width: 2rem;" target="_blank">
-      {{ load_data(path="/assets/icons/rss.svg") | safe }}
-</a>
+You can add the whole blog or only a certain category to your RSS reader using <a href="{{ get_url(path=section.path ~
+	config.feed_filename) | safe }}" target="_blank">this link.</a>
 
 <ul class="listing">
 	{% for post in section.pages %}
 		<li><a href="{{ post.permalink }}">{{ post.title }}</a><span class="time">{{ post.date }}</span></li>
+		<li>Summary: {{ post.summary }}</li>
+		<li>Reading time: {{ post.reading_time }}</li>
+		<li>Lang: {{ post.lang }}</li>
+		<li>
+				{% for tr in post.translations %}
+				<a href="{{ tr.permalink }}">
+						{% if tr.lang == 'cs'  %}
+							🇨🇿
+						{% else %}
+							🇬🇧
+						{% endif %}
+				</a>
+				{% endfor %}
+		</li>
 	{% endfor %}
 </ul>
 </section>
