@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block headers %}
+{% set section = get_section(path=page.ancestors | last) %}
+{% endblock headers %}
+
+{% block content %}
+<section class="long-text">
+{{ page.content | safe }}
+</section>
+{% endblock content %}
