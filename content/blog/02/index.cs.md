@@ -1,5 +1,5 @@
 ---
-title: '🇨🇿Týden 2: Začátek semestru na KTH'
+title: 'Týden 2: Začátek semestru na KTH'
 lang: cs
 layout: post
 date: 2023-09-03

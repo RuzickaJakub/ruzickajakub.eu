@@ -12,6 +12,10 @@ taxonomies = [
 	{ name = "tags", feed = true, paginate_by = 10},
 ]
 
+author = "Jakub Růžička"
+title = "Jakub Růžička (en)"
+description = "Hey! I'm Jakub Růžička. I enjoy playing CTF, running, hiking and learning new things!"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -33,3 +37,6 @@ name_cs = "HOME"
 path_cs = "/cs"
 
 [languages.cs]
+author = "Jakub Růžička"
+title = "Jakub Růžička (cs)"
+description = "Ahoj! Jsem Kuba a studuji Kybernetickou bezpečnost ve Švédsku. Kromě studia, rád běhám, lezu a učím se nové věci"

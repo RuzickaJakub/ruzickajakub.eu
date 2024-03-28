@@ -1,5 +1,5 @@
 ---
-title: '🇨🇿 Kavkaz: Severní Ušba (nepokořena), Chatyn, Pik Shchurovsky'
+title: 'Kavkaz: Severní Ušba (nepokořena), Chatyn, Pik Shchurovsky'
 lang: cs
 layout: post
 date: 2023-08-23
