@@ -1,17 +1,19 @@
----
-title: 'Kavkaz: Severní Ušba (nepokořena), Chatyn, Pik Shchurovsky'
-lang: cs
-layout: post
-date: 2023-08-23
-photos:
-    directory: /media/hiking/2023-kavkaz/
-    items:
-        - ushba-shch-map.jpg: Mapa Ushba glacier.
-        - shch4.jpg: Mapa výstupu na Chatyn.
-        - shch2.jpg: Mapa výstupu na Pik Shchurovsky
-        - shch8.jpg: Mapa plánovaného výstupu na severní Ushbu.
----
-
++++
+title = "Kavkaz: Severní Ušba (nepokořena), Chatyn, Pik Shchurovsky"
+date = 2023-08-23
+[[extra.photos]]
+file = "ushba-shch-map.jpg"
+caption = "Mapa Ushba glacier."
+[[extra.photos]]
+file = "shch4.jpg"
+caption = "Mapa výstupu na Chatyn."
+[[extra.photos]]
+file = "shch2.jpg"
+caption = "Mapa výstupu na Pik Shchurovsky"
+[[extra.photos]]
+file = "shch8.jpg"
+caption = "Mapa plánovaného výstupu na severní Ushbu."
++++
 ### Technické informace:
 
 #### Výstupy
@@ -41,7 +43,7 @@ Balím si do Stockholmu a odpoledne vyrážím do Prahy pro lyofood. Společně 
 
 #### 12/8/2023
 
-Těsně po půlnoci vyrážíme směr letiště Wrocław. Na české straně řídí Buf, na polské pak já. Poprvé mě nechali řídit :). Před čtvrtou jsme u závory na parkoviště. Musíme počkat na čtvrtou, jelikož od té doby máme koupený lístek. Odbavení i pasová kontrola bez problémů - váhy krosen 20,2 kg, 20,3 kg a 21,2 kg. Letíme tři a půl hodiny a v 6:30 místního času jsme v Kutaisi. 
+Těsně po půlnoci vyrážíme směr letiště Wrocław. Na české straně řídí Buf, na polské pak já. Poprvé mě nechali řídit :). Před čtvrtou jsme u závory na parkoviště. Musíme počkat na čtvrtou, jelikož od té doby máme koupený lístek. Odbavení i pasová kontrola bez problémů - váhy krosen 20,2 kg, 20,3 kg a 21,2 kg. Letíme tři a půl hodiny a v 6:30 místního času jsme v Kutaisi.
 
 Půl hodiny ve frontě a poté pro batohy. Ufff, vše dorazilo. Sháníme Maršrutku do Becho nebo Mestia. Buf se pouští do vyjednávání. Po chvíli nasedáme do Opelu a vyrážíme společně s dvěma Polkami do Zugdidi (100 GEL za všechny). V Zugdidi jsme před třetí a tak stíháme Maršrutku do Mestie. V mezičase nám ještě řidič prodává SIM kartu, kterou s pomocí místních aktivujeme.
 
@@ -57,7 +59,7 @@ Stoupáme k rozcestí a dáváme si procházku nalehko pod vodopád. Vracíme se
 
 Spalo se špatně všichni jsme se v noci probouzeli, ať už hučící vodou či kameny bodající nás do zad. V 6:30 vstáváme, snídáme a balíme. Vyrážíme v 7:45. Začínáme chůzi po ledovci, který je pokryt štěrkem a kamením. Po dvou hodinách už jdeme po čistém ledovci. Provádíme první překrok z hrany ledovce na kámen a vytahujeme cepín. Vidíme za námi dva další horolezce. Ledovec slyšitelně praská a my si nejsme jistí, proto pokračujeme částečně po skále (na levé straně údolí). U domnělého kempu Camp 2(3.321 m.n.m) zastavujeme. Horolezci z Ruska, které jsme viděli nás dohání a diskutujeme s nimi naše plány. My jsme původně chtěli zůstat dnes zde. Oni budou pokračovat až nahoru na Ushba plato. Nasazují mačky a vyráží. Rozmýšlíme, zda také nevyrazit. Je 12:30, tak co zde. Jen musíme dávat pozor na padající kamení a led, který dle našich informací padá hlavně pozdě odpoledne a večer.
 
-Rozhodujeme se pokračovat. Nasazujeme mačky, oblékáme prsní úvazky a navazujeme se jako trojčlenné lanové družstvo - Švambor vpředu, Buf uprostřed a já vzadu, mezi každým z nás jsou tři motýlci. V 13:30 jsme připraveni a vyrážíme. Jdeme po stopách ruských horolezců. Stopy kličkují mezi trhlinami. Provádíme několik nejasných rozhodnutí ohledně cesty, překračujeme ledové mosty a několikrát vidíme led a kameny mizet hluboko v trhlině. Některé trhliny jsou opravdu mohutné. Postupujeme velmi pomalu a s koncem trhlin rozpouštíme lanové družstvo a pokračujeme po ledu/sněhu. V 16:40 dorážíme velmi vyčerpaní na místo, kde dnes stanujeme (3.879 m.n.m). Je tu parádní místo na kamenech i se závětřím - opravdu luxusní. Dnes máme večeři na Máru Holečka - bramborovou kaši. Je toho morda, ale dnes to potřebujeme. 
+Rozhodujeme se pokračovat. Nasazujeme mačky, oblékáme prsní úvazky a navazujeme se jako trojčlenné lanové družstvo - Švambor vpředu, Buf uprostřed a já vzadu, mezi každým z nás jsou tři motýlci. V 13:30 jsme připraveni a vyrážíme. Jdeme po stopách ruských horolezců. Stopy kličkují mezi trhlinami. Provádíme několik nejasných rozhodnutí ohledně cesty, překračujeme ledové mosty a několikrát vidíme led a kameny mizet hluboko v trhlině. Některé trhliny jsou opravdu mohutné. Postupujeme velmi pomalu a s koncem trhlin rozpouštíme lanové družstvo a pokračujeme po ledu/sněhu. V 16:40 dorážíme velmi vyčerpaní na místo, kde dnes stanujeme (3.879 m.n.m). Je tu parádní místo na kamenech i se závětřím - opravdu luxusní. Dnes máme večeři na Máru Holečka - bramborovou kaši. Je toho morda, ale dnes to potřebujeme.
 
 Buf chvíli usíná, já píši zápis a Švambor si čte respekt. Je vidět cesta na vrchol Severní Ušby a vyvolává to v nás respekt. Vidíme příčnou trhlinu ve velmi prudké stěně. A i sněhová převěj (Ushba pillow) nevypadá vůbec jednoduše. Vždy odpoledne (včera i dnes) přichází mraky a vrchol Severní Ušby se schová. Koukáme směrem na Elbrus a také na cestu na Ushba plato z ruské strany - prakticky kolmá stěna. Bolí mě lehce hlava z převýšení, ostatní taktéž. Po celý den jsme neměli signál, až zde na Ushba plato máme slabý signál. Zítra je v plánu odpočinkový den. Po 21. hodině jdeme spát.
 
@@ -115,7 +117,7 @@ Okolo 19 hodiny vidíme výstupovou dvojici. Výstup prováděli s jedním cepí
 
 #### 16/8/2023
 
-Probouzím se v pět ráno. Na Ushbu se nejde, to by se vstávalo ve tři. Koukám ven a je azuro. Výhledy na Elbrus, Ushbu i na další hory a pohoří směrem do Ruska i Gruzie. V šest snídáme a okolo sedmé vyrážíme na Chatyn. Jistíme se ve třech, ale jde to pomalu. Po desáté hodině Buf prohlašuje, že je brutálně nevyspalý. Slaňuje dolů a vrací se do stanu. Společně se Švamborem poté pokračujeme směrem na vrchol. Po cestě nalézáme dvě repšnůry v abalacích (Abalakových hodinách). Jistíme se pomocí fixního bodu - ledovcového šroubu. Vylézáme na vrchol v brzkém odpoledni. Krátce svačíme. Pomalu sestupujeme, zkoušíme abalakovy hodiny a dokonce se nám i podařily, ačkoliv jsme neměli drát na vytažení repšnůry. Já slaňuji přes hodiny jištěn navíc ledovcovým šroubem. Švambor poté jen na hodinách. Je to pomalé, hlavně protože se nám pořád zamotává lano. Ostatní 2-3 délky jdeme s cepíny v ruce. Já jsem jištěn, zaštanduji, Švambor zruší a sleze ke štandu. Před půl čtvrtou jsme opět u stanu. 
+Probouzím se v pět ráno. Na Ushbu se nejde, to by se vstávalo ve tři. Koukám ven a je azuro. Výhledy na Elbrus, Ushbu i na další hory a pohoří směrem do Ruska i Gruzie. V šest snídáme a okolo sedmé vyrážíme na Chatyn. Jistíme se ve třech, ale jde to pomalu. Po desáté hodině Buf prohlašuje, že je brutálně nevyspalý. Slaňuje dolů a vrací se do stanu. Společně se Švamborem poté pokračujeme směrem na vrchol. Po cestě nalézáme dvě repšnůry v abalacích (Abalakových hodinách). Jistíme se pomocí fixního bodu - ledovcového šroubu. Vylézáme na vrchol v brzkém odpoledni. Krátce svačíme. Pomalu sestupujeme, zkoušíme abalakovy hodiny a dokonce se nám i podařily, ačkoliv jsme neměli drát na vytažení repšnůry. Já slaňuji přes hodiny jištěn navíc ledovcovým šroubem. Švambor poté jen na hodinách. Je to pomalé, hlavně protože se nám pořád zamotává lano. Ostatní 2-3 délky jdeme s cepíny v ruce. Já jsem jištěn, zaštanduji, Švambor zruší a sleze ke štandu. Před půl čtvrtou jsme opět u stanu.
 
 Slunce svítí vytahuji karimatku a pozoruji kamenité laviny, které padají z východní stěny Ushby. Přichází oblačnost a tak zalézám do stanu.
 
@@ -125,13 +127,13 @@ Dnešní výstup byl mým prvním čistě ledovcovým výstupem. V jedné fázi 
 
 #### 17/8/2023
 
-Ráno vstáváme po šesté hodině. Pomalu se dostáváme do akce. K snídani jsou sušená vajíčka s cibulkou. Jsme sotva najezení, rozhodně nejhorší jídlo. V 8:15 se vypravujeme na Pik Shchurovski. Jedná se o mixové lezení, kdy dvakrát sundáváme mačky, pro snazší přechod po skále. Ve 12:30 jsme na vrcholu přičemž nutno podotknout, že hlavní složitost spočívala v padajícím kamení. Dolů z vrcholu slaňujeme. Po třetí hodině jsme zpět v kempu. 
+Ráno vstáváme po šesté hodině. Pomalu se dostáváme do akce. K snídani jsou sušená vajíčka s cibulkou. Jsme sotva najezení, rozhodně nejhorší jídlo. V 8:15 se vypravujeme na Pik Shchurovski. Jedná se o mixové lezení, kdy dvakrát sundáváme mačky, pro snazší přechod po skále. Ve 12:30 jsme na vrcholu přičemž nutno podotknout, že hlavní složitost spočívala v padajícím kamení. Dolů z vrcholu slaňujeme. Po třetí hodině jsme zpět v kempu.
 
-*TIP*: Vajíčka okořenit solí a pepřem a obecně vzít sebou chilli. 
+*TIP*: Vajíčka okořenit solí a pepřem a obecně vzít sebou chilli.
 
 *TIP* Mazat si nos i ze spodu kolem nosních dírek. Ano i tam se může spálit.
 
-Se Švamborem se ještě vydáváme na Malou Ushbu (Little Ushba). Švambor leze první a už založení štandu trvá skoro hodinu (od startu od stanu). Na prvním štandu sundáváme mačky a uklízíme cepíny. Pokračujeme další délkou, kdy Švambor nohou ulomí kámen o velikosti lidského trupu. Současně není za rohem moc dobře slyšet. Po chvíli mě dobírá a já dolézám na druhý štand. Švambor navrhuje slanit, šutry jsou nebezpečné. Souhlasím. Po delším operování začínám slaňovat na repce (která, zde už byla) a friendu. Slaňuji přes trhlinu a jsem dole. Švambor slaňuje jen na repce. Při slaňování lana se konec druhého lana na chvíli zasekne nahoře. Vypadá to, že se nepodaří dostat ho dolů. Švambor trhá a lano je dole. Před šestou jsme u stanu. 
+Se Švamborem se ještě vydáváme na Malou Ushbu (Little Ushba). Švambor leze první a už založení štandu trvá skoro hodinu (od startu od stanu). Na prvním štandu sundáváme mačky a uklízíme cepíny. Pokračujeme další délkou, kdy Švambor nohou ulomí kámen o velikosti lidského trupu. Současně není za rohem moc dobře slyšet. Po chvíli mě dobírá a já dolézám na druhý štand. Švambor navrhuje slanit, šutry jsou nebezpečné. Souhlasím. Po delším operování začínám slaňovat na repce (která, zde už byla) a friendu. Slaňuji přes trhlinu a jsem dole. Švambor slaňuje jen na repce. Při slaňování lana se konec druhého lana na chvíli zasekne nahoře. Vypadá to, že se nepodaří dostat ho dolů. Švambor trhá a lano je dole. Před šestou jsme u stanu.
 
 Buf již navařil čaj i večeři. Po večeři diskutujeme, co podnikneme po sestupu do Mazeri. Nakládáme vločky na zítra. Píši zápis a odpočíváme. Je 19:30. Jo a celý den zase azura, je to tu paráda.
 
@@ -149,7 +151,7 @@ Ke snídani jsou míchaná vajíčka. Balíme a stoupáme na GUli Pass. Je dopol
 
 #### 21/8/2023
 
-Opět krásné ráno. Probouzím se s výhledem na ledovce na protějších kopcích. Scházíme do Mestie. V parku v centru snídáme chačapuri, kubdar s rajčaty a sýrem. Poté jdeme do muzea Mikheila Khergianiho. Zde se setkáváme s artefakty a informacemi o výstupech tohoto slavného sovětského alpinisty. Vracíme se zpět do centra. Kluci posedávají v Beer garden a já obrážím okolí a sháním nejlepší nanuky a místní pečivo. V pozdním odpoledni vyrážíme do kempiště označeném na Mapy.cz. Po cestě nabíráme výtečnou minerální vodu. Zbytek dne si čteme luštíme křížovky. Večer, pak rozděláváme oheň. Zveme i další Čechy - Kryštofa a Vendy, kteří přišli v průběhu dne. Buf zve i další nocovníky opodál. Bavíme se a jíme (jako celý den) až do doby než nás do stanů zažene bouřka (21:30). 
+Opět krásné ráno. Probouzím se s výhledem na ledovce na protějších kopcích. Scházíme do Mestie. V parku v centru snídáme chačapuri, kubdar s rajčaty a sýrem. Poté jdeme do muzea Mikheila Khergianiho. Zde se setkáváme s artefakty a informacemi o výstupech tohoto slavného sovětského alpinisty. Vracíme se zpět do centra. Kluci posedávají v Beer garden a já obrážím okolí a sháním nejlepší nanuky a místní pečivo. V pozdním odpoledni vyrážíme do kempiště označeném na Mapy.cz. Po cestě nabíráme výtečnou minerální vodu. Zbytek dne si čteme luštíme křížovky. Večer, pak rozděláváme oheň. Zveme i další Čechy - Kryštofa a Vendy, kteří přišli v průběhu dne. Buf zve i další nocovníky opodál. Bavíme se a jíme (jako celý den) až do doby než nás do stanů zažene bouřka (21:30).
 
 #### 22/8/2023
 

@@ -1,10 +1,7 @@
----
-title: Návštěvy
-lang: cs
-layout: default
-date: 2022-10-10
----
-
++++
+title = "Návštěvy"
+date = 2022-10-10
++++
 Ahoj! Jak asi tušíš, aktuálně se nacházím ve Stockholmu. Pokud by jsi mě chtěl/a navštívit, tak mám pro tebe pár praktických informací a pak spoustu lákadel. Pokud ti bude informace chybět, tak mi napiš.
 
 ## Doprava
@@ -50,8 +47,8 @@ Vše se tu platí kartou. Já si na začátku vybral pár Švédských korun a z
 
 (12) Muzea - ve Stockholmu je nepřeberné množství muzeí, zde uvádím ta, která mě zaujala, současně s informací, zda jsem je již navštívil či nikoliv.
 [ABBA museum](https://abbathemuseum.com/en) (Navštíveno),
-[Vasa museet](https://www.vasamuseet.se/en), 
-[Nordiska museet](https://www.nordiskamuseet.se/en), 
+[Vasa museet](https://www.vasamuseet.se/en),
+[Nordiska museet](https://www.nordiskamuseet.se/en),
 [Nobel prize museet](https://nobelprizemuseum.se/en/).
 
 (13) Lappis scream - Každé úterý ve 22:00 všichni kdo potřebují otevřou okno a zakřičí z plných plic. Jedná se o zvláště oblíbenou aktivitu, především v době zkouškového. [Ukázkové video](https://www.kth.se/blogs/studentblog/2020/01/lappis-screams-and-treasures/)

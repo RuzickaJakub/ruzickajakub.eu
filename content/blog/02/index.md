@@ -1,24 +1,40 @@
----
-title: ' Week 2: First semester at KTH'
-lang: en
-layout: post
-date: 2023-09-03
-photos:
-    directory: /media/sweden/week-02/
-    items:
-        - nature-by-the-lappis.jpeg: Park near my flat
-        - campus-garden.jpeg: University garden
-        - campus-at-night.jpeg: KTH campus at night
-        - brick-building-everywhere.jpeg: Brick buildings everywhere
-        - brick-building-everywhere-second.jpeg: Brick buildings everywhere (vol. 2)
-        - gasworks.jpeg: Brick gasworks
-        - from-djurgarden-city-view.jpeg: View of the city from Djurgården
-        - lappis-kitchen.jpeg: Lappis - kitchen
-        - lappis-kitchen-2.jpeg: Lappis - kitchen (vol. 2)
-        - lappis-my-bed.jpeg: Lappis - my bed
-        - lappis-bathroom.jpeg: Lappis - bathroom
----
-
++++
+title = "Week 2: First semester at KTH"
+date = 2023-09-03
+[[extra.photos]]
+file = "nature-by-the-lappis.jpeg"
+caption = "Park near my flat"
+[[extra.photos]]
+file = "campus-garden.jpeg"
+caption = "University garden"
+[[extra.photos]]
+file = "campus-at-night.jpeg"
+caption = "KTH campus at night"
+[[extra.photos]]
+file = "brick-building-everywhere.jpeg"
+caption = "Brick buildings everywhere"
+[[extra.photos]]
+file = "brick-building-everywhere-second.jpeg"
+caption = "Brick buildings everywhere (vol. 2)"
+[[extra.photos]]
+file = "gasworks.jpeg"
+caption = "Brick gasworks"
+[[extra.photos]]
+file = "from-djurgarden-city-view.jpeg"
+caption = "View of the city from Djurgården"
+[[extra.photos]]
+file = "lappis-kitchen.jpeg"
+caption = "Lappis - kitchen"
+[[extra.photos]]
+file = "lappis-kitchen-2.jpeg"
+caption = "Lappis - kitchen (vol. 2)"
+[[extra.photos]]
+file = "lappis-my-bed.jpeg"
+caption = "Lappis - my bed"
+[[extra.photos]]
+file = "lappis-bathroom.jpeg"
+caption = "Lappis - bathroom"
++++
 The first semester at KTH started slowly. As part of the subject The Cybersecurity Engineer's Role in Society, we met with second-year students and had an introductory activity. I have completed the visual side of my website, now with a mobile version as well. I attended the local CTF (Capture The Flag) team RoyalRoppers kick off and even had the opportunity to enter my first DownUnderCTF competition straight away. Due to almost zero experience, I focused on simpler tasks and managed to solve three. At the same time, I started a project in the subject of Ethical Hacking, where my task is to break into systems and obtain so-called flags. There will be more than enough hacking this semester.
 
 On the other hand, the subject Cybersecurity Overview looks rather uninteresting. For that reason, I asked for the option not to take the subject, although it is a compulsory subject. As a substitute, I would like to study Artificial Neural Networks and Deep Architectures.

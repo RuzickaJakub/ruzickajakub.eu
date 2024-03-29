@@ -1,24 +1,40 @@
----
-title: 'Týden 2: Začátek semestru na KTH'
-lang: cs
-layout: post
-date: 2023-09-03
-photos:
-    directory: /media/sweden/week-02/
-    items:
-        - nature-by-the-lappis.jpeg: Park přímo vedle mého ubytování
-        - campus-garden.jpeg: Univerzitní zahrada
-        - campus-at-night.jpeg: Noční kampus
-        - brick-building-everywhere.jpeg: První ze série cihlových staveb
-        - brick-building-everywhere-second.jpeg: Další ze série cihlových staveb
-        - gasworks.jpeg: Cihlová plynárna
-        - from-djurgarden-city-view.jpeg: Pohled na město z Djurgården
-        - lappis-kitchen.jpeg: Lappis - kuchyň
-        - lappis-kitchen-2.jpeg: Lappis - kuchyň z jiného pohledu
-        - lappis-my-bed.jpeg: Lappis - mé místo na spaní
-        - lappis-bathroom.jpeg: Lappis - koupelna
----
-
++++
+title = "Týden 2: Začátek semestru na KTH"
+date = 2023-09-03
+[[extra.photos]]
+file = "nature-by-the-lappis.jpeg"
+caption = "Park přímo vedle mého ubytování"
+[[extra.photos]]
+file = "campus-garden.jpeg"
+caption = "Univerzitní zahrada"
+[[extra.photos]]
+file = "campus-at-night.jpeg"
+caption = "Noční kampus"
+[[extra.photos]]
+file = "brick-building-everywhere.jpeg"
+caption = "První ze série cihlových staveb"
+[[extra.photos]]
+file = "brick-building-everywhere-second.jpeg"
+caption = "Další ze série cihlových staveb"
+[[extra.photos]]
+file = "gasworks.jpeg"
+caption = "Cihlová plynárna"
+[[extra.photos]]
+file = "from-djurgarden-city-view.jpeg"
+caption = "Pohled na město z Djurgården"
+[[extra.photos]]
+file = "lappis-kitchen.jpeg"
+caption = "Lappis - kuchyň"
+[[extra.photos]]
+file = "lappis-kitchen-2.jpeg"
+caption = "Lappis - kuchyň z jiného pohledu"
+[[extra.photos]]
+file = "lappis-my-bed.jpeg"
+caption = "Lappis - mé místo na spaní"
+[[extra.photos]]
+file = "lappis-bathroom.jpeg"
+caption = "Lappis - koupelna"
++++
 První semestr na KTH začal zvolna. V rámci předmětu Role inženýra kybernetické bezpečnosti ve společnosti (The Cybersecurity Engineer's Role in Society) jsme se setkali se studenty z druhého ročníku a proběhla seznamovací aktivita. Dokončil jsem visuální stránku svého webu, nyní i s variantou pro mobilní zařízení. Zúčastnil jsem se úvodního setkání místního CTF (Capture The Flag) týmu RoyalRoppers a dokonce jsem měl možnost se rovnou zúčastnit své první soutěže DownUnderCTF. Vzhledem k téměř nulovým zkušenostem jsem se zaměřil na jednodušší úlohy a tři se mi podařilo vyřešit. Současně jsem se pustil do projektu v předmětu Etické hackování, kde je mým úkolem prolamování systémů a získávání tz. vlajek. Tento semester bude hackování více než dost.
 
 Na druhou stranu předmět Úvod do kybernetické bezpečnosti (Cybersecurity Overview) vypadá dosti nezajímavě. Z toho důvodu jsem požádal o možnost předmět neabsolvovat, ačkoliv se jedná o povinný předmět. Jako náhradu bych rád studoval Umělé neuronové sítě a hluboké architektury (Artificial Neural Networks and Deep Architectures).

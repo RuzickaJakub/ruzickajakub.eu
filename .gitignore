@@ -1,3 +1,3 @@
-static/media
-*.jpg
+**/*.jpeg
+**/*.jpg
 public

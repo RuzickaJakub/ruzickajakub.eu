@@ -18,6 +18,19 @@
 <p class="subtitle"><strong>{{ page.date }}</strong></p>
 {{ page.content | safe }}
 
+{% if page.extra.photos %}
+<section id="photos">
+	{% for photo in page.extra.photos %}
+	<a href="{{ photo.file }}">
+			<figure>
+				<img src="{{ photo.file }}"/>
+				<figcaption>{{ photo.caption }}</figcaption>
+			</figure>
+			</a>
+	{% endfor %}
+</section>
+{% endif %}
+
 <a class="icon" href="{{ get_url(path=section.path ~ config.feed_filename) | safe }}" target="_blank">
 {{ load_data(path="static/assets/icons/rss.svg") | safe }}
 </a>

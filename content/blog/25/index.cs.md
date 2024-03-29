@@ -1,10 +1,7 @@
----
-title: 'Týden 25: Síťová bezpečnost'
-lang: cs
-layout: post
-date: 2024-02-11
----
-
++++
+title = "Týden 25: Síťová bezpečnost"
+date = 2024-02-11
++++
 V týdnu jsem se konečně pořádně dostal k práci na projektu ze síťové bezpečnosti a velmi mě to baví. Objevil jsem linuxový systém pro správu uživatelů - FreeIPA, který integruje mnoho užitečných technologií. Tedy je ideální čas se o těchto technologiích dozvědět více.
 
 Současně si užívám zimní Stockholm, v úterý byl na běžkách a ve čtvrtek na bruslích. Sportovně se přidal i na akce studentského sportovního spolku (THS Sport) a zahrál si v úterý volejbal a v sobotu házenou. Pravděpodobně první hra házené v životě. Dále pracuji ve volných chvílích na stojce, či jinak posiluji ve venkovní tělocvičně, která je asi sto metrů od domovních dveří. Současně mi vypršel měsíční lístek na hromadnou dopravu a tak jsem se vrátil k ježdění po městě na kole.
