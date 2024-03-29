@@ -1,8 +1,8 @@
----
-title: Privacy policy
-lang: en
-layout: default
----
++++
+title = "Privacy policy"
+date = 2024-03-29
+template = "default.html"
++++
 
 # Privacy policy
 
@@ -17,5 +17,5 @@ Nothing to retent.
 ### Disclosure of your personal data
 Nothing to disclose.
 
-![xkcd.com gdpr](/media/gdpr.png)
+![xkcd.com gdpr](./gdpr.png)
 
