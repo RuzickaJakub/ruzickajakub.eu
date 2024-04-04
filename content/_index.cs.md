@@ -27,12 +27,12 @@ label= "jakub.ruzicka@matfyz.cz"
 [[extra.socials]]
 name = "PGP Key"
 icon = "static/assets/icons/pgpkey.svg"
-link = "./pgp.key"
+link = "../pgp.key"
 label= "PGP Klíč - Klikni pro stažení."
 
 [[extra.socials]]
 name = "Resume"
 icon = "static/assets/icons/cv.svg"
-link = "./ruzicka-cv-english.pdf"
+link = "../ruzicka-cv-english.pdf"
 label= "Životopis - Klikni pro stažení."
 +++
