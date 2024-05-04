@@ -6,29 +6,40 @@ date: 2025-12-31
 draft: true
 ---
 
-Tjena allihoppa, 
+Zdravím všechny/Tjena allihoppa,
 
-chtěl bych tento rok v létě zdolat některou z částí (celou asi nestihnu) královské cesty - Kungsleden. Kungsleden je 467 kilometrů dlouhý trek, který se kompletně nachází za polárním kruhem a protíná švédské Laponsko od severu k jihu. A říkal jsem si, zda byste někdo nechtěl vyrazit také - letošní Cefeus Trip? 
+chtěl bych tento rok v létě zdolat některou z částí (nebo i celou) královské cesty - Kungsleden. Kungsleden je 467 kilometrů dlouhý trek, který se kompletně nachází za polárním kruhem a protíná švédské Laponsko od severu k jihu. A říkal jsem si, zda byste někdo nechtěl vyrazit také. Velikost výsledné skupiny by z praktických důvodů byla tak max 5-6 lidí. A osobně bych nejraději vyrazil z Abiska a zkusil ujít celý trek, nebo alespoň do Kvikkjokku (info o úsecích níže). Pokud by jste se někdo chtěl připojit, tak se přidejte do skupiny na https://chat.whatsapp.com/DXTha4HdXUAEjumrWM9kMX
 
 Co se dá očekávat? Rozlehlou pustinu, náhorní plošiny, rozlehlá jezera, březové lesy, horské říčky, mokřady, lumíky, stáda sobů (možná i nějáké ty Sámi poblíž) a losy. Dále čtyři národní parky, rozmachy počasí, dlouhé dny a mrazivé noci.
 
-Kdy by se vyrazilo? Zamýšlený start je v neděli 12.8. a konec je dle vybrané trasy. Řekněme, třeba 21.8. Ideální období pro trek konec srpna/začátek září jelikož ranní mrazíky pozabíjí komáry, ale ještě není brutální zima během noci.
+Kdy by se vyrazilo? Zamýšlený start je v neděli 12.8. a konec je dle vybrané trasy. Ideální období pro trek konec srpna/začátek září jelikož ranní mrazíky pozabíjí komáry, ale v noci ještě není brutální zima.
+
+Náročnost? Technicky jednoduché, Fyzicky (velmi) náročné.
 
 Jaké jsou možnosti?
-1. Nejservernější část (Abisko - Nikkaluokta, 107 km)
+1. Kompletní Kungsleden
+- Obsahuje vše zmíněné u jednotlivých částí
+- Odhadovaná časová náročnost 20 dní.
+
+2. Pohodovka (Abisko - Nikkaluokta, 107 km)
 - nejoblíbenější, nejvíce lidí
 - nejvíce hornatá část
 - 5 jezer, které je potřeba překonat za nemalý poplatek (nebo s pomocí pramice přejet 3-7 km dlouhá jezera).
 - žádný signál prvních 100 km
 - chaty po cestě
 
-2. Nejdrsnější část (Kvikkjokk - Ammarnäs, 173 km)
+2. Nejservernější část (Abisko - Kvikkjokk, 211 km)
+- celkově hornatá
+- ubývající počet lidí po cestě
+- jezera
+
+3. Nejdrsnější část (Kvikkjokk - Ammarnäs, 173 km)
 - prakticky bez lidí
 - také bez chat, pouze dvě: Jäkkvik (90 km od začátku) a Adolfstörm (110 km od začátku)
 - ne všechny řeky mají mosty
 - méně hor, více náhorních plošin, březových lesů a mokřadů
 
-3. Jižní část (Ammarnäs - Hemavan, 79 km)
+4. Jižní část (Ammarnäs - Hemavan, 79 km)
 - opět více lidí
 - také více chat
 - rozlehlé pustiny, březové lesy
@@ -36,15 +47,19 @@ Jaké jsou možnosti?
 Cena?
 Cesta:
 - Nejlevnější možnost: (cca. 7000 CZK dospělí, 6000 pod 26) letadlo Praha - Stockholm (2 h), noční vlak Stockholm - Abisko (19 h)
-- Nejekologičtější možnost (cca. 9000 CZK dospělí, 7000 CZK pod 26) vlak Praha - Berlín (5 h), noční vlak Berlín - Stockholm (17 h), noční vlak Stockholm - Abisko (19 h)
+- Zážítková možnost (cca. 9000 CZK dospělí, 7000 CZK pod 26) vlak Praha - Berlín (5 h), noční vlak Berlín - Stockholm (17 h), noční vlak Stockholm - Abisko (19 h)
 Ubytování:
 - Na místě se dá vždy a všude stanovat (s výjímkou národního parku Abisko, ale i v něm existuje místo pro stanování zdarma).
 Jídlo: 
-- Jídlo na valnou část cesty je potřeba mít s sebou. Na místě je a bude vše ultra drahé.
+- Často je potřeba si nést jídlo třeba na 5-7 dní. Pak je možné dokoupit, ale musí se počítat s vyšší cenou.
+
+
 
 Zdroje:
 - https://www.svetoutdooru.cz/hory/kungsleden-svedska-kralovska-stezka-tritydenni-trek-laponskem-za-polarnim-kruhem/
 - https://www.mountainiq.com/guides/hikes-in-europe/kungsleden-trail/
+
+
 
 Kungsleden je dálkový trek vedoucí od severu na jih pustinou švéského Laponska.
 
