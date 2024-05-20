@@ -1,0 +1,19 @@
++++
+title = "Norges grundlagsdag - Náštěva Osla a Den Ústavy"
+date = 2024-05-17
++++
+
+Při studiu Švédštiny jsem vyčerpal všechny dobré švédské seriály a tak jsem začal sledovat norské - norština a švédština jsou jako čeština a slovenština. A během sledování seriálu SKAM, jsem se dozvěděl o studentském životě v Norsku a Dni Ústavy (Norges Grundlagsdag). V tento den si každý vezme své nejlepší oblečení, čímž bývá nejčastěji kroj nebo uniforma. Pár fotografií stačilo, abych se rozhodl, že svou první návštěvu Osla provedu právě 17. května.
+
+#### Příjezd
+Ranním spojem ze Stockholmu jsem dorazil do Oslo chvíli po obědě. Krásně Azuro a tak jsem se vydal na procházku po centru. Po Karl Johans Gate okolo parlamentu (Stortinget), národního divadla ke královskému paláci. Poté k národní knihovně a po pobřeží s výhledy do Oslofjordu. Následně jsem si dal studijní chvilku v knihovně Deichman Bjørvika. A doporučuji jako skvělé studijní místo. Následoval výstup na Ekerberg a toulání se klidnými uličkami a večeří s výhledem na Oslo v Tøyen parku. Následoval už jen západ slunce na opeře a poté zjistit, kde to vlastně spím. Hostitele jsem našel přes couchsurfing a teď nereagoval. Tak jsem čekal, naštěstí se kolem 23 hodiny ozval a dal mi instrukce, jak se dostat k němu domů.
+
+#### Pátek 17.5. Den Ústavy
+
+Vstávám a rovnou vyrážím do centra. Asi pět minut po výstupu z vlaku naražím na první pochodový orchestr Østensjø Janitsjar, zatím stojící na místě. Po delší chvíli se objevuje policejní pochodový orchestr, který jde naproti stojícímu Østensjø Janitsjar. Policejní orchestr začne procházet skrz Østensjø Janitsjar v půlce se ale zastaví a oba orchestry hrají současně. Po pár skladbách se každý rozejde svým směrem. Jak pokračuji asi 100 metrů, když naražím na dětstký orchestr (ještě netuším, že orchestry tu budou všude). Většina kolemjdoucích je v kroji ze svého regionu, uniformě či jiném slavnostním oblečení. Vyjímku tvoří studenti ve svých červených a modrých overalech (prý existují i jiné barvy).
+
+Tohle byla jen ochutnávka před hlavním velkým průvodem, který je uveden i zakončen královskou gardou a kterého se účastní 120 škol a 80 školních orchestrů, přičemž ne každá škola se může účastnit každý rok, aby nebyl průvod příliš dlouhý. Už nyní trvá tři až čtyři hodiny. Zatímco sleduji folklórní tance u University, tak si všímám, že pán vedle mě vysvětluje, co se děje. Seznamuji se s Geraldem, který se stává mým průvodcem. Naším dalším cílem je přehlídka královské gardy na Akerbrygge. Na sluníčku je dosti vedro a tak se schováváme do stínu stromů u královského paláce, kde královská rodina zdraví průvod - stojí na balkóně a mává celé čtyři hodiny. Moji průvodci jsou na oběd a já se procházím okolo průvodu. Objevuji, že kromě krále se salutuje ještě dalši osobě, která mává z balkónu parlamentu. Ve 12 hodin jsou stříleny salvy z pevnosti. A právě pevnost je mým dalším cílem. Po cestě se ještě zastavuji na historické fregatě a procházím okolo moderního norského křižníku. Na pevnosti je slavnostní koncert, kde talentovaní studenti účinkují s Filharmonií Oslo. Po celém dni ve městě se vydávám na Frognerseteren a davám si procházku. Večer trávím ve Vigelands parku, kterému dominují sochy právě Gustava Vigelanda.
+
+#### Následující dny
+
+Jelikož můj hostitel byl velmi vstřícný, tak jsem strávil v Oslu ještě další tři dny, během kterých jsem střídavě studoval v parcích a poznával město. Navštívil jsem museum Edvarda Muncha, radnici, poloostrov Bygdøy, pár stezek v okolí s výhledy a ztvárnil slavný obraz výkřik. Celou dobu bylo krásně azuro. Za mě je Oslo s malým avšak ikonickým centrem. S mořem, kopci na dosah a množstvím parků působí jako skvělé místo pro život.
